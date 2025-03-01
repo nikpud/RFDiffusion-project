@@ -1,4 +1,4 @@
-# RFDiffusion Test
+# RFDiffusion Test Generation
 ### Generate backbones
 
 ### References
